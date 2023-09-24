@@ -5,6 +5,11 @@
     font-size: 12.5px;
 }
 
+span{
+    color: #037BC0;
+    font-size: xx-large;
+}
+
 header {
     text-align: center;
 }
@@ -17,6 +22,26 @@ header {
 #heroImg img {
     height: 100%;
     width: 100%;
+}
+
+#product1Img {
+    height: 100%; width: 100%;
+}
+
+#product1Txt {
+    background-color: #037BC0;
+    padding-top: 40px;
+}
+
+#btnProducts {
+    background-color: #8cbc00; 
+    color: white;
+}
+
+#productsFmt {
+    text-align: center; 
+    color: white; 
+    background-color: #037BC0;
 }
 
 .titles {
